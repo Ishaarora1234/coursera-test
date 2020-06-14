@@ -17,15 +17,15 @@ body {
 
 p {
 	padding: 10px;
-	margin: 0;
+	margin: none;
 }
 
 .container {
 	border: none;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: auto;
+	margin-bottom: auto;
 	padding: 10px;
 }
 
